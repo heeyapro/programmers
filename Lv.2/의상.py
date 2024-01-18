@@ -10,3 +10,5 @@ def solution(clothes):
         answer *= (i+1)
     answer -= 1
     return answer
+
+#(카테고리 갯수 +1) * (카테고리 갯수 +1) -1
