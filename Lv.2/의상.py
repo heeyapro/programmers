@@ -1,7 +1,6 @@
 from collections import Counter
 def solution(clothes):
     answer = 1
-    cnt = 0
     s = []
     for i in range(len(clothes)):
         s.append(clothes[i][1])
